@@ -1,0 +1,20 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Oppo A5",
+      "harga": 2050000,
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "nama": "Oppo K3",
+      "harga": 3500000,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

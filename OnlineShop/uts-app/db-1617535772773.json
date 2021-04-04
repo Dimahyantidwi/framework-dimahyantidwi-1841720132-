@@ -1,0 +1,36 @@
+{
+  "smartphone": [
+    {
+      "id": 1,
+      "nama": "Oppo A5",
+      "harga": 2050000,
+      "gambar": "https://www.begawei.com/wp-content/uploads/2018/07/oppo-a5-f.jpg",
+      "stok": 3
+    },
+    {
+      "id": 2,
+      "nama": "Oppo K3",
+      "harga": 3500000,
+      "gambar": "https://asset.kompas.com/crops/N9JFy8KVk-5Hv6xqQp4UYwGFib8=/0x0:1200x800/750x500/data/photo/2019/07/31/5d414e92dbb55.jpg",
+      "stok": 2
+    },
+    {
+      "id": 3,
+      "nama": "Oppo F4",
+      "harga": 2500000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2018/11/18/4753549/4753549_1686a109-5c11-4bae-b42d-f66cacdd324d_380_380.jpg",
+      "stok": 4
+    },
+    {
+      "id": 4,
+      "nama": "Oppo F3",
+      "harga": 2800000,
+      "gambar": "https://id-test-11.slatic.net/p/2/oppo-f3-plus-9512-68066012-6ff59438c15064fe22a158db8c66f91f-catalog.jpg_720x720q80.jpg_.webp",
+      "stok": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,71 @@
+{
+    "smartphone": [
+      {
+        "id": 1,
+        "nama": "Oppo A5",
+        "harga": 2050000,
+        "gambar": "https://www.begawei.com/wp-content/uploads/2018/07/oppo-a5-f.jpg",
+        "stok": 1
+      },
+      {
+        "id": 2,
+        "nama": "Laptop Lenovo",
+        "harga": 3500000,
+        "gambar": "https://cdns.klimg.com/merdeka.com/i/w/news/2015/09/04/590653/540x270/laptop-lenovo-14-inci-ini-hanya-memiliki-berat-2-kilogram-saja.jpg",
+        "stok": 3
+      },
+      {
+        "id": 3,
+        "nama": "Televisi Sharp",
+        "harga": 2500000,
+        "gambar": "https://static.bmdstatic.com/pk/product/medium/5d01f4c78516b.jpg",
+        "stok": 2
+      },
+      {
+        "id": 4,
+        "nama": "AC Sharp",
+        "harga": 2800000,
+        "gambar": "https://www.selka.id/assets/images/news/cover/katalog-lengkap-ac-sharp-dari-tipe-termurah-sampai-tipe-paling-premium_500x301.jpg",
+        "stok": 1
+      },
+      {
+        "id": 5,
+        "nama": "Lemari Es Sharp",
+        "harga": 2800000,
+        "gambar": "https://id.sharp/sites/default/files/uploads/lineup-kulkas.jpg",
+        "stok": 3
+      },
+      {
+        "id": 6,
+        "nama": "Mesin Cuci Sharp",
+        "harga": 2800000,
+        "gambar": "https://www.sharp-indonesia.com/megamouthseries/images/product-04.png",
+        "stok": 2
+      },
+      {
+        "id": 7,
+        "nama": "Setrika Sharp",
+        "harga": 2800000,
+        "gambar": "https://id-test-11.slatic.net/p/45a8a1276f65bcd690ec3bc034a2fabc.jpg",
+        "stok": 1
+      },
+      {
+        "id": 8,
+        "nama": "Kipas Angin Sharp",
+        "harga": 2800000,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/electricfans/SHARP_PJS_400/SHARP_PJS_400_L_1.jpg",
+        "stok": 3
+      },
+      {
+        "id": 9,
+        "nama": "Magic Com Sharp ",
+        "harga": 2800000,
+        "gambar": "https://jualelektronik.com/wp-content/uploads/2014/10/Sharp_Magic_Com_1.8L_Motif_Bunga_KSR18MS.jpg",
+        "stok": 2
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
