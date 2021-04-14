@@ -19,7 +19,7 @@ class BlogPost extends Component {
     }
 
     ambilDataDariServerAPI = () => {
-        fetch('http://localhost:3001/posts')
+        fetch('http://localhost:3000/posts')
         .then(response => response.json())
         .then(jsonHasilAmbilDariAPI => {
             this.setState({
@@ -33,7 +33,7 @@ class BlogPost extends Component {
     }
 
     handleHapusArtikel = () => {
-        fetch(`http://localhost:3001/posts/1`, {method: `DELETE`})
+        fetch(`http://localhost:3000/posts/1`, {method: `DELETE`})
             .then(res => {
                 this.ambilDataDariServerAPI();
             })
@@ -50,7 +50,7 @@ class BlogPost extends Component {
     }
 
     handleTombolSimpan = () => {
-        fetch(`http://localhost:3001/posts/`, {
+        fetch(`http://localhost:3000/posts/`, {
             method: `post`,
             headers: {
                 'Accept': 'application/json',
@@ -58,7 +58,7 @@ class BlogPost extends Component {
             },
             body: JSON.stringify(this.state.insertArtikel)
         })
-        .then(( reesponse :Response ) => {
+        .then((response : response ) => {
             this.ambilDataDariServerAPI();
         })
     }
