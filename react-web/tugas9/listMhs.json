@@ -1,0 +1,54 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1,
+      "NIM": 1841720132,
+      "nama": "Dimahyanti dwi lestariningsih",
+      "alamat": "Jl. Libukang VIII No, 9",
+      "hp": "089698804036",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "NIM": 178499404,
+      "nama": "Ica",
+      "alamat": "Palopo",
+      "hp": "085749028403",
+      "angkatan": 2017,
+      "status": "CUTI"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "NIM": 1641720347,
+      "nama": "Nadya",
+      "alamat": "Enrekang",
+      "hp": "085870375931",
+      "angkatan": 2016,
+      "status": "LULUS"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "NIM": 1841720029,
+      "nama": "Wardah Ghaliyah",
+      "alamat": "Pasuruan",
+      "hp": "08989668527",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "NIM": 1841720030,
+      "nama": "Albertha Ratna",
+      "alamat": "Probolinggo",
+      "hp": "08525864900",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    }
+  ]
+}
