@@ -7,8 +7,7 @@ import {
     LOGOUT_FAILURE,
     VERIFY_REQUEST,
     VERIFY_SUCCESS
-} from "../actions/auth";
-
+} from "../actions/";
 export default (
     state = {
         isLoggingIn: false,
@@ -26,7 +25,7 @@ export default (
             return {
                 ...state,
                 isLoggingIn: true,
-                loginError: false
+                oginError: false
             };
         case LOGIN_SUCCESS:
             return {
